@@ -1,4 +1,31 @@
 ﻿<Properties StartupConfiguration="{3B51708F-E779-4994-9506-2CF40EFFA744}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Threading-Join FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Threading-Join PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Threading-Join/Entry.cs">
+    <Files>
+      <File FileName="Threading-Join/LockMethod/ThreadLockMethod.cs" Line="25" Column="41" />
+      <File FileName="Threading-Join/Deadlock/DeadLock.cs" Line="5" Column="22" />
+      <File FileName="Threading-Join/Entry.cs" Line="13" Column="17" />
+      <File FileName="Threading-Join/JoinMethodd/ThreadJoin.cs" Line="7" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Threading-Join" expanded="True">
+            <Node name="Threading-Join" expanded="True">
+              <Node name="Deadlock" expanded="True" />
+              <Node name="JoinMethodd" expanded="True" />
+              <Node name="LockMethod" expanded="True" />
+              <Node name="Entry.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>

@@ -8,4 +8,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="JoinMethodd\" />
+    <None Remove="LockMethod\" />
+    <None Remove="Deadlock\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="JoinMethodd\" />
+    <Folder Include="LockMethod\" />
+    <Folder Include="Deadlock\" />
+  </ItemGroup>
 </Project>
