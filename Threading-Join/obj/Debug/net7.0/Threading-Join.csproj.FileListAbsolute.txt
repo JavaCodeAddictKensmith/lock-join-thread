@@ -1,0 +1,15 @@
+/Users/mac/Documents/Threading-Join/Threading-Join/bin/Debug/net7.0/Threading-Join
+/Users/mac/Documents/Threading-Join/Threading-Join/bin/Debug/net7.0/Threading-Join.deps.json
+/Users/mac/Documents/Threading-Join/Threading-Join/bin/Debug/net7.0/Threading-Join.runtimeconfig.json
+/Users/mac/Documents/Threading-Join/Threading-Join/bin/Debug/net7.0/Threading-Join.dll
+/Users/mac/Documents/Threading-Join/Threading-Join/bin/Debug/net7.0/Threading-Join.pdb
+/Users/mac/Documents/Threading-Join/Threading-Join/obj/Debug/net7.0/Threading-Join.csproj.AssemblyReference.cache
+/Users/mac/Documents/Threading-Join/Threading-Join/obj/Debug/net7.0/Threading-Join.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/Threading-Join/Threading-Join/obj/Debug/net7.0/Threading-Join.AssemblyInfoInputs.cache
+/Users/mac/Documents/Threading-Join/Threading-Join/obj/Debug/net7.0/Threading-Join.AssemblyInfo.cs
+/Users/mac/Documents/Threading-Join/Threading-Join/obj/Debug/net7.0/Threading-Join.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/Threading-Join/Threading-Join/obj/Debug/net7.0/Threading-Join.dll
+/Users/mac/Documents/Threading-Join/Threading-Join/obj/Debug/net7.0/refint/Threading-Join.dll
+/Users/mac/Documents/Threading-Join/Threading-Join/obj/Debug/net7.0/Threading-Join.pdb
+/Users/mac/Documents/Threading-Join/Threading-Join/obj/Debug/net7.0/Threading-Join.genruntimeconfig.cache
+/Users/mac/Documents/Threading-Join/Threading-Join/obj/Debug/net7.0/ref/Threading-Join.dll
